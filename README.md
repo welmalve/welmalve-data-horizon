@@ -3,6 +3,9 @@
 
 
 
+
+
+---
 ### Minhas habilidades
 
 <table> 
@@ -96,14 +99,6 @@
 <span> Power BI </span> <br> <br> 
 
 <img height = "64px" src = "https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763"> 
-
-</td> 
-
-<td width = "25%" align = "center"> 
-
-<span> Frasco </span> <br> <br> 
-
-<img height = "64px" src = "https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"> 
 
 </tbody> 
 
