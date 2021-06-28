@@ -105,18 +105,6 @@
 
 <img height = "64px" src = "https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"> 
 
-</td> 
-
-<td width = "25%" align = "center"> 
-
-<span> Heroku </span> <br> <br> 
-
-<img height = "64px" src = "https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png"> 
-
-</td> 
-
-</tr> 
-
 </tbody> 
 
 </table>
