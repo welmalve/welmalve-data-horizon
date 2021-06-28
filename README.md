@@ -3,7 +3,9 @@
 #### Minhas habilidades
 
 
-![MySQL]()
+![MySQL](
+https://camo.githubusercontent.com/a6bccd7f89f95b714db78434e97658fdabc284888271146c777ed2b5be3d405b/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d7973716c2e737667
+)
 
 
 
