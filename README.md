@@ -9,3 +9,5 @@
 
 
 ### Minhas Habilidades
+
+![image](https://user-images.githubusercontent.com/86089406/123647400-6b7dbe80-d7fe-11eb-861f-8dc93c88c565.png)
