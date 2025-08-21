@@ -1,6 +1,6 @@
 # Wellington Alves
 
-<sub>**Analista de Dados**</sub>
+<sub>*Analista de Dados*</sub>
 
 Sou um entusiasta de dados com foco em transformar informações brutas em **insights acionáveis** que impulsionam a tomada de decisões estratégicas. Com formação em **Ciência de Dados e Big Data Analytics**, possuo uma base sólida para enfrentar desafios complexos e entregar soluções baseadas em dados.
 
