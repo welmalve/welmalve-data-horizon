@@ -12,7 +12,7 @@
 ---
 ### Minhas habilidades
 
-cccfe17736b339732f65fd133e7c5a3a8ccc02b7
+[cccfe17736b339732f65fd133e7c5a3a8ccc02b7](https://github.com/karinnecristina/Data_Science/blob/c5d7cf64080743e2bd2d52e2a6ad21992db95eed/data_science_areas.png)f
 
 
 
