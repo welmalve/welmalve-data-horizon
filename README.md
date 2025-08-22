@@ -52,8 +52,12 @@ Sou um entusiasta de dados com foco em transformar informações brutas em **ins
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-alves-662200165//)](https://www.linkedin.com/in/wellington-alves-662200165/) 
 - <a href="mailto:welmalve.proxy@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=welmalve.proxy@gmail.com)</a>
-- **Portfólio**: [Link do seu portfólio]  
-                 
+##
+[![Repositórios](https://img.shields.io/badge/📦_Repositórios-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/welmalve)
+
+<a href="https://github.com/welmalve/revenue-regression-analysis">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=welmalve&repo=revenue-regression-analysis&theme=dark&show_description=true&description_lines=2&show_owner=true" />
+</a>
 
 
 
